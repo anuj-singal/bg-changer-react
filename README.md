@@ -40,8 +40,8 @@ bg-changer/
 
 ## ⚙️ Installation & Setup
 1. **Clone the repository**
-   git clone https://github.com/anuj-singal/bg-changer.git
-   cd bg-changer
+   git clone https://github.com/anuj-singal/bg-changer-react.git
+   cd bg-changer-react
 
 2. **Install dependencies**
    npm install
